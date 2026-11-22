@@ -14,7 +14,7 @@ AeroCode replaces holding your phone up at events. Instead of filming, you enjoy
 
 ## 🎯 The Problem
 
-At church services, weddings, conferences, and stadium matches in Uganda, everyone holds their phone up to film. They miss the moment, block others, and end up with shaky, low-quality videos.
+Globally, at church services, weddings, conferences, graduation ceremonies, stadium matches and many other occasions people holds their phone up to film, to get photos, highlights and content videos to play on Tiktok, YouTube etc.  They miss the moment, block others, and end up with shaky, low-quality videos.
 
 YouTube / Facebook Live only lets you *watch* — you don't get anything to keep.
 
@@ -99,7 +99,7 @@ AeroCode scales from 200 people in church to 40,000 people in a stadium.
 - One code = limited downloads (e.g. 200 for one service, 40,000 for stadium)
 - View-Only mode for sensitive conferences (no download)
 - Watermark option for photos
-- All data owned by AeroCode Technologies
+- All data owned by Global AeroCode Technologies Limited.
 
 ## 🛠️ Tech Stack
 
