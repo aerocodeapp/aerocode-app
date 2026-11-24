@@ -43,12 +43,13 @@ class EnterCodeScreen extends StatelessWidget {
                 ),
               ),
             ),
-          ],            SizedBox(height: 20),
+                     ),
+            SizedBox(height: 20),
             ElevatedButton(
               onPressed: () {},
               child: Text('Continue - Join Service'),
             ),
-        ),
+          ],
       ),
   @override
   Widget build(BuildContext context) {
