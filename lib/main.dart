@@ -23,3 +23,19 @@ class AeroCodeApp extends StatelessWidget {
     );
   }
 }
+class EnterCodeScreen extends StatelessWidget {
+  const EnterCodeScreen({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Color(0xFF0A1931),
+      body: Center(
+        child: Text(
+          'Enter Code Screen - Coming Next',
+          style: TextStyle(color: Colors.white, fontSize: 20),
+        ),
+      ),
+    );
+  }
+}
