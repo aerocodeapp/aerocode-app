@@ -54,4 +54,24 @@ class EnterCodeScreen extends StatelessWidget {
     );
   }
 }
+class JoinServiceScreen extends StatelessWidget {
+  const JoinServiceScreen({super.key});
 
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Color(0xFF0A1931),
+      appBar: AppBar(
+        title: Text('Join Service'),
+        backgroundColor: Color(0xFF0A1931),
+      ),
+      body: Center(
+        child: Text(
+          'Welcome! You Joined the Service',
+          style: TextStyle(color: Colors.white, fontSize: 20),
+          textAlign: TextAlign.center,
+        ),
+      ),
+    );
+  }
+}
