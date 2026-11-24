@@ -46,7 +46,12 @@ class EnterCodeScreen extends StatelessWidget {
                      ),
             SizedBox(height: 20),
             ElevatedButton(
-              onPressed: () {},
+                    onPressed: () {
+        Navigator.push(
+          context,
+          MaterialPageRoute(builder: (context) => JoinServiceScreen()),
+        );
+      },
               child: Text('Continue - Join Service'),
             ),
           ],
