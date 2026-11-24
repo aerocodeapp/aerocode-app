@@ -11,16 +11,14 @@ class AeroCodeApp extends StatelessWidget {
     return MaterialApp(
       title: 'AeroCode',
       debugShowCheckedModeBanner: false,
-      home: Scaffold(
-        backgroundColor: Color(0xFF0A1931),
-        body: Center(
-          child: Text(
-            'AeroCode',
-            style: TextStyle(color: Colors.white, fontSize: 32),
+           home: const EnterCodeScreen(),
+       
+      
+           
           ),
         ),
       ),
-    );
+      
   }
 }
 class EnterCodeScreen extends StatelessWidget {
