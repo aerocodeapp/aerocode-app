@@ -51,11 +51,4 @@ class EnterCodeScreen extends StatelessWidget {
             ),
           ],
       ),
-  @override
-  Widget build(BuildContext context) {
-    return Scaffold(
-      backgroundColor: Color(0xFF0A1931),
-     
-    );
-  }
-}
+
